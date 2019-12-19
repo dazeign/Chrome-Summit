@@ -1,0 +1,33 @@
+{
+   "description": "Merry Xmas theme by daze Codes",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkvYmtvum6weZbF4vsY+7SANGu+rEvkIKAWkKsj4dA50WRy2XLwYPv9pK2ATDHMekXcFvSpg9V55cjlcQv9Qmo1062MMsMn4cDP0GkAi4MuiCgD+M0jFF/4+EXzJ4RQBoqBWD+axizoMm45UiPhCPrUKZm3ep8CHdnXE+hNPTY2MRJ2CVrVgIiicP6o1XMlLIO7wCN16Ok2eB/4NH5zyx/MJppcGilE49/qwfaJkRN6GzwDcojxMWgElnXfIezam2mB2KpeRkUW907xJDfIi7sX0MlqYv7edzw6F+CWt3MGxXlYCaGlTLQ6QVtoVpOMssU/W+O4BhOVVuvZXNiYre7QIDAQAB",
+   "manifest_version": 2,
+   "name": "Merry Xmas by daze",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 16, 25, 6 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 75, 104, 33 ],
+         "ntp_background": [ 75, 5, 5 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 16, 25, 6 ],
+         "tab_text": [ 16, 25, 6 ],
+         "toolbar": [ 195, 223, 113 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.jpg",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      }, 
+      "properties": {
+         "ntp_background_alignment": "top",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
